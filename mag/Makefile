@@ -1,4 +1,4 @@
-PROJECT_NAME ?= tt_um_magic_challenge
+PROJECT_NAME ?= tt_um_example
 MAGIC_RC := $(PDK_ROOT)/sky130A/libs.tech/magic/sky130A.magicrc
 
 .PHONY: lvs magic start
